@@ -15,7 +15,7 @@ This project is a minimal but complete example of:
 - Using `select()` for I/O multiplexing
 - Graceful server shutdown with signal handling (`SIGINT`)
 
-It is designed for learning and demonstration purposes, especially for networking fundamentals.
+It is essentially designed for learning and demonstration purposes during my System Programming class, especially for networking fundamentals.
 
 ---
 
